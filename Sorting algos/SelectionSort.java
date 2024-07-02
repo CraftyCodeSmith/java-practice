@@ -19,3 +19,4 @@ public class SelectionSort {
 
     }
 }
+//int this arr[i] is comapared with rest of elements in arr
